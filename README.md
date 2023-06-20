@@ -1,0 +1,1 @@
+# handle-a-rejected-promise-with-catch.js
